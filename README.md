@@ -1,2 +1,9 @@
 # Software-Design-Document
 The Gaming Room - Software Design Document
+
+
+The Gaming Room was looking to develop a web-based game that operates on multiple platforms that is based off their current game " Draw it or Lose it " which is currently only available in an Android app. In essense they wanted their game across multiple platforms in the form of a web-brower game.
+Inside the Software Design Document, in the evaluation section is where I felt I did my best work. I took the time and went through each platform and leveraged the pros and cons of each on a basis of the server, the client, and the development tools. Without a proper evaluation it is possible to miss crutical information that could affect the entire development which is why I felt the need to spend a lot of time in that area.
+Also inside the Design Document, the Domain Model was a useful tool when it came to developing the code for the project. Essentially being a map of the code, it made it easy to understand the flow of logic.
+When the project was finished, I felt I could have done more in the design constraints section. I struggled identifying potential design constraints that may arrise during development. Overall, I think the section just required more time than I had and also could have used some guided help so that I could better understand the fundamentals of constraints vs. requirements. 
+Interpeting a clients thoughts can be a mountain of a hurdle. Its crutical to involve the client in design components as well as function features whenever possible to ensure it is meeting the required criteria. Having the ability to contact and show the client points of progress and confirm requirements are being met isnt always available, so the best practice would be to spend as much time needed in the intial consultation to cover as many bases as possible to really get a good idea on what the client is expecting.
